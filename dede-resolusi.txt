@@ -2,3 +2,5 @@ DEDE RESOLUSI
 - konsisten untuk terus belajar
 - membuat suatu program dengan konsisten
 - bertanggung jawab akan kekonsistenan yang dimiliki
+- selalu belajar membuat program yang baru
+- kolaborasi dengan banyak expert
